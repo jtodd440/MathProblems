@@ -1,5 +1,5 @@
 # MathProblems
-graphs, visuals, and data created for use in math problems
+graphs, visuals, and data created for math problems
 
 This repo contains examples of my work for Walch Education. Here are some examples of data/graphs I made with python. Find the code for these graphs in the .ipynb files.  
 (u6_ua_plots.ipynb line 148)  
